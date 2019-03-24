@@ -10,7 +10,14 @@ keywords: 程序员,计算机,大学生,极客,计算机科学与技术
 author: mike liu
 language:
 timezone:
-
+#rss
+plugin:
+- hexo-generator-feed
+#Feed Atom
+feed: 
+type: atom
+path: atom.xml
+limit: 20
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
