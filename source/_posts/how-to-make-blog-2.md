@@ -31,7 +31,7 @@ theme: yilia
 清除原有生成  
 `hexo clean`  
 重新生成  
-`jexo g`  
+`hexo g`  
 发布博客  
 `hexo g`  
 进入你的博客，是不是感觉焕然一新？

@@ -16,8 +16,8 @@ reward: true
 我使用的是arch,如果是ubuntu请用apt-get install<br/>
 安装node.js<br/>
 `sudo pacman -S nodejs`<br/>
-安装nmp<br/>
-`yaourt -S nmp`<br/>
+安装npm<br/>
+`yaourt -S npm`<br/>
 安装git<br/>
 `yaourt -S git`<br/>
 安装 Hexo<br/>
