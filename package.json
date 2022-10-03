@@ -17,7 +17,7 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
-    "peer": "^0.2.10",
+    "peer": "^0.6.1",
     "save": "^2.3.3"
   }
 }
